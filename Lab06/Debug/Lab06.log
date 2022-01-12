@@ -1,0 +1,6 @@
+﻿  Lab06.cpp
+C:\Users\Owner\Desktop\CPSC231\Lab06\Lab06.cpp(27,7): warning C4101: 'pos': unreferenced local variable
+  Search & Sort.cpp
+  Generating Code...
+Lab06.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Lab06.vcxproj -> C:\Users\Owner\Desktop\CPSC231\Lab06\Debug\Lab06.exe
