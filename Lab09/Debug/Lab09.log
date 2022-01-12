@@ -1,0 +1,4 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Lab09.cpp
+Lab09.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Lab09.vcxproj -> C:\Users\Owner\Desktop\CPSC231\Lab09\Debug\Lab09.exe
