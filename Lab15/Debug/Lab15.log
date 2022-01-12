@@ -1,0 +1,6 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Lab15.cpp
+C:\Users\Owner\Desktop\CPSC231\Lab15\Lab15.cpp(53,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Owner\Desktop\CPSC231\Lab15\Lab15.cpp(59,16): warning C4018: '<': signed/unsigned mismatch
+Lab15.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Lab15.vcxproj -> C:\Users\Owner\Desktop\CPSC231\Lab15\Debug\Lab15.exe

@@ -1,0 +1,6 @@
+﻿  Lab14.cpp
+C:\Users\Owner\Desktop\CPSC231\Lab14\Lab14.cpp(20,18): warning C4101: 'q': unreferenced local variable
+  Node.cpp
+  Generating Code...
+Lab14.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Lab14.vcxproj -> C:\Users\Owner\Desktop\CPSC231\Lab14\Debug\Lab14.exe
