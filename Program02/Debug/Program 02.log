@@ -1,0 +1,7 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Person.cpp
+  People.cpp
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Main.cpp
+  Program 02.vcxproj -> C:\Users\Owner\Desktop\CPSC231\Program02\Debug\Program 02.exe
