@@ -1,0 +1,7 @@
+Book
+Pen
+Eraser
+Paper
+Pencils
+Calculator
+ 
