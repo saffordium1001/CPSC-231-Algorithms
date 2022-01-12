@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\Owner\Desktop\CPSC231\Program04\MiniQueue.h(105): warning C4715: 'miniqueue<int>::front': not all control paths return a value
+C:\Users\Owner\Desktop\CPSC231\Program04\MiniStack.h(104): warning C4715: 'ministack<int>::top': not all control paths return a value
+C:\Users\Owner\Desktop\CPSC231\Program04\MiniQueue.h(105): warning C4715: 'miniqueue<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::front': not all control paths return a value
+C:\Users\Owner\Desktop\CPSC231\Program04\MiniStack.h(104): warning C4715: 'ministack<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::top': not all control paths return a value
+  Program04.vcxproj -> C:\Users\Owner\Desktop\CPSC231\Program04\Debug\Program 04.exe
