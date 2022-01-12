@@ -1,0 +1,6 @@
+﻿  Main.cpp
+  Node.cpp
+  Tree.cpp
+  Generating Code...
+Main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Program05.vcxproj -> C:\Users\Owner\Desktop\CPSC231\Program05\Debug\Program 05.exe
